@@ -19,7 +19,7 @@
 
 - 📝 I irregularly write articles on [https://diandianyilin.com](https://diandianyilin.com)
 
-- 💬 Ask me about **📑, 🐶, or 🐴**
+- 💬 Ask me about **📑 academic research on digital marketing, 🐶 dog parenting, or 🐴 show jumping**
 
 - 📫 How to reach me **yilindiandian@gmail.com**
 
