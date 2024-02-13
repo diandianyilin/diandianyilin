@@ -19,13 +19,13 @@
 
 - 📝 I irregularly write articles on [https://diandianyilin.com](https://diandianyilin.com)
 
-- 💬 Ask me about **📑 academic research on digital marketing, 🐶 dog parenting, or 🐴 show jumping**
-
 - 📫 How to reach me **yilindiandian@gmail.com**
 
 - 📄 Know about my experiences [https://diandianyilin.com](https://diandianyilin.com)
 
 - ⚡ Fun fact **I'm also a dog parent🐶 & amateur show jumper🐴.**
+  
+- 💬 Ask me about **📑 academic research on digital marketing, 🐶 dog parenting, or 🐴 show jumping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
