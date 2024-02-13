@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/diandianyilin" target="blank"><img src="https://img.shields.io/twitter/follow/diandianyilin?logo=twitter&style=for-the-badge" alt="diandianyilin" /></a> </p>
 
-- 🔭 I’m currently working on **A**
+<!-- - 🔭 I’m currently working on **A** -->
 
 - 🌱 I’m currently learning **computer vision**
 
-- 👯 I’m looking to collaborate on **B**
+<!-- - 👯 I’m looking to collaborate on **B** -->
 
-- 🤝 I’m looking for help with **C**
+<!-- - 🤝 I’m looking for help with **C** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/diandianyilin/](https://github.com/diandianyilin/)
 
