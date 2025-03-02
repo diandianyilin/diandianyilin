@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **A** -->
 
-- 🌱 I’m learning **computer vision**
+- 🌱 I’m studying **computer vision**
 
 <!-- - 👯 I’m looking to collaborate on **B** -->
 
