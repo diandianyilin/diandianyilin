@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DianDian</h1>
-<h3 align="center">An Empiricist focused on quantitative research in marketing and behavioral economics</h3>
+<h3 align="center">An Empiricist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diandianyilin&label=Profile%20views&color=0e75b6&style=flat" alt="diandianyilin" /> </p>
 
